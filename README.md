@@ -33,6 +33,10 @@ O Projeto usa a AWS para sua hospedagem utilizando o serverless.
 3. `sls deploy` para gerar uma versão possível de ser deployada com 
 os arquivos transpilados para Javascript
 
+Colaboradores:
+* [Thales Fernando Milanezi](https://github.com/ThalesMilanezi)
+* [Vinícius Abuhid](https://github.com/ViniciusAbuhid)
+
 <h3>Contato</h3>
 <p>:man: Thales Fernando Milanezi</p>
 <p>:e-mail: milanezitf@gmail.com</p>
